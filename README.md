@@ -7,3 +7,6 @@ Voron alkatrészek webáruháza.
 
 News, updates:
 * https://zen3dshop.tumblr.com/
+
+Monolith Gantry Updates Blog: 
+* https://monolith-gantry-updates.zen3d.eu/
